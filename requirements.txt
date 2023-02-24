@@ -2,9 +2,9 @@ pandas
 streamlit
 plotly.express
 numpy 
-import base64
-import matplotlib.pyplot as plt
+#import base64
+#import matplotlib.pyplot as plt
 folium
 streamlit_folium 
-plotly.graph_objs 
+#plotly.graph_objs 
 PIL 
