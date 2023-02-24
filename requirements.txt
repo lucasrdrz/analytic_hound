@@ -1,6 +1,0 @@
-pandas 
-streamlit
-plotly.express
-numpy 
-folium
-streamlit_folium 
