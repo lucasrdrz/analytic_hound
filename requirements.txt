@@ -2,7 +2,7 @@ pandas
 streamlit
 plotly.express
 numpy 
-matplotlib.pyplot 
+matplotlib
 folium
 streamlit_folium 
 plotly.graph_objs 
