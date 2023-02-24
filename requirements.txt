@@ -1,0 +1,10 @@
+pandas 
+streamlit
+plotly.express
+base64
+numpy 
+matplotlib.pyplot 
+folium
+streamlit_folium 
+plotly.graph_objs 
+PIL 
